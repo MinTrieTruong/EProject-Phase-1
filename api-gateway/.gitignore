@@ -1,0 +1,13 @@
+# Thư mục chứa các thư viện đã cài đặt
+node_modules/
+
+# File log
+npm-debug.log
+*.log
+
+# File chứa biến môi trường và "bí mật"
+.env
+
+# File hệ thống của macOS và Windows
+.DS_Store
+Thumbs.db
